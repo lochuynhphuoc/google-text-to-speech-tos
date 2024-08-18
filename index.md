@@ -14,6 +14,7 @@ Harassment, abuse, or threats.
 Transmission of any content that is offensive, vulgar, obscene, or defamatory.
 Impersonation of any person or entity.
 Any action that could disable, overburden, or impair the Bot or interfere with any other party’s use of the Bot.
+
 4. Privacy
 We do not store any personal information. The text you input is only used to generate the speech output and is not saved or shared.
 
